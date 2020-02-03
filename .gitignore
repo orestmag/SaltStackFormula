@@ -1,0 +1,14 @@
+.terraform
+.kitchen/
+terraform.tfstate.d/
+terraform.tfstate*
+.terraform.tfstate.lock.info
+*.json
+.env
+ubuntu*
+.vscode
+ci.tar.gz
+sens.sh
+vars.sh
+*.swp
+.vscode/
